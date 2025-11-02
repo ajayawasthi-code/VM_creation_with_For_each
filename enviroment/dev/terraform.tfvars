@@ -100,7 +100,7 @@ ajaynsg = {
 }
 ajayvm = {
   "vm1" = {
-    admin_password        = "Ajay@DevOps2025!"
+    admin_password        = ""
     admin_username        = "ajay"
     location              = "centralindia"
     name                  = "fronetendvm"
